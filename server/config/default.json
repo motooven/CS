@@ -1,0 +1,6 @@
+{
+  "serverPort" : 8000,
+  "dbUrl": "mongodb+srv://admin:admin@cloud.3uyii.mongodb.net/cloud?retryWrites=true&w=majority",
+  "secretKey": "motooven-secket-key-1999-corps-neo-utah"
+}
+
